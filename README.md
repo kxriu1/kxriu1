@@ -29,8 +29,8 @@
 
   
 ### Studying in this moment:
-![Elixir](https://img.shields.io/badge/-elixir-0D1117?style=for-the-badge&logo=elixir&logoColor=purple&labelColor=0D1117)&nbsp; 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=elixir&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
